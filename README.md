@@ -1,5 +1,7 @@
 # laravel-firebird
 
+SUPPORT FOR LARAVEL 5.8
+
 To use this package:
 
 Installation
